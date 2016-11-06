@@ -1,0 +1,6 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+  <StackLayout>
+      <Label id="name" width="200"/>
+      <Placeholder creatingView="createCamera" id="video_view"/>
+  </StackLayout>
+</Page>

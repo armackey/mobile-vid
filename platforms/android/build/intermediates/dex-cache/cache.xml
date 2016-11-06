@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.2.1_f8b55632e49187298a93d9f7c23aeabfaebe7cc5.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.2.1_d595f90c1fde165c9dd89fcd30cf99b2376880aa.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/mobilevideo/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/mobilevideo-runtime-unspecified_732e93dc979c98da183b879b4a73100d6233ea4d.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.twilio/common-android/0.6.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1040f3661f917793e73dd4b72f84ed2bd8fc0c6b">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/com.twilio-common-android-0.6.1_cac61233259043f6d0dd3839482b91b809ce8a1e.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.twilio/video-android/1.0.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9ecf0ab4b2e85eb8eeb3ecc7e52e2efc742d3f96">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/com.twilio-video-android-1.0.0-beta1_ddd35ce726763e9f34718b8d631d3a1c08911ca7.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-23.2.1_c6ea42380b5159edbd746c77cda39ec71bc09198.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.2.1_0f57a55dcddd0be2e8c6442fbfa28c7500429f39.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/com.getkeepsafe.relinker-relinker-1.2.2_ef26d14ee8d92ee2b07099c6a90386c035583955.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-23.2.1_57a3ed57eebb89b1a0c5d3fc9d263a49b5182172.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_0e06670bb1a25537db8cff23e51000d2391b9ead.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/com.twilio/video-android/1.0.0-beta1/jars/libs/libjingle_peerconnection_java.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aab880ad13601a246ff390dcdaf1854e307f5278">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/libjingle_peerconnection_java_73644b79ab171f9a58500d4f949c5cdd48c1ba3f.jar" />
+    </item>
+    <item
+        jar="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/exploded-aar/mobilevideo/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_7fc961e521a37bdfd1e4757ccbef235b651741f8.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.3.4/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/RedWood/Desktop/NS-APPS/mobile-video/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.2.1_85138c9e7717fef0f37fdc84b6bde5c2879a22d3.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+// Add your native dependencies here:
+
+// Uncomment to add recyclerview-v7 dependency compile 'com.android.support:recyclerview-v7:+'
+dependencies {
+	compile "com.twilio:video-android:1.0.0-beta1"
+}
+
+android {  
+  defaultConfig {  
+    generatedDensities = []
+    applicationId = "org.nativescript.mobilevideo"  
+  }  
+  aaptOptions {  
+    additionalParameters "--no-version-vectors"  
+  }  
+} 
